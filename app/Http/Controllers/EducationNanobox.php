@@ -31,7 +31,7 @@ class EducationNanobox extends Controller
 
     public function education_tambah()
     {
-    	return view('education.education_tambah');
+    	return view('education.edukasi_tambah');
     }
 
     public function education_store(Request $request)

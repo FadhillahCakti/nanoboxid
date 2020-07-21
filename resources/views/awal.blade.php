@@ -85,27 +85,27 @@ a.promotion-btn {
 
 <div class="row">
 <div class="col-sm-4">
-  <img src="https://scontent.fcgk24-2.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/110174900_1361393777403864_8938291624231169993_n.jpg?_nc_cat=107&_nc_sid=1480c5&efg=eyJpIjoidCJ9&_nc_ohc=hrq0JbO5wCkAX_pxTp8&_nc_ht=scontent.fcgk24-2.fna&tp=14&oh=5cdd48962f47134075608990482eded0&oe=5F3ABDF1" alt="Icon 1" width="90" height="90">
+  <img src="https://scontent.fcgk24-2.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/110174900_1361393777403864_8938291624231169993_n.jpg?_nc_cat=107&_nc_sid=1480c5&efg=eyJpIjoidCJ9&_nc_ohc=hrq0JbO5wCkAX_pxTp8&_nc_ht=scontent.fcgk24-2.fna&tp=14&oh=5cdd48962f47134075608990482eded0&oe=5F3ABDF1" class="rounded mx-auto d-block" alt="Icon 1" width="90" height="90">
   <h6 class='text-center'>LIMITLESS SCALABILITY</h6></div>
 
 <div class="col-sm-4">
-  <img src="https://scontent.fcgk24-2.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/110101956_1361393867403855_3950877301054712483_n.jpg?_nc_cat=107&_nc_sid=1480c5&efg=eyJpIjoidCJ9&_nc_ohc=YGMKYTTZCxYAX_8YqNd&_nc_ht=scontent.fcgk24-2.fna&tp=14&oh=9c46ad807fdfe48d812867fa6445922e&oe=5F3CEFF8" alt="Icon 2" width="90" height="90">
+  <img src="https://scontent.fcgk24-2.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/110101956_1361393867403855_3950877301054712483_n.jpg?_nc_cat=107&_nc_sid=1480c5&efg=eyJpIjoidCJ9&_nc_ohc=YGMKYTTZCxYAX_8YqNd&_nc_ht=scontent.fcgk24-2.fna&tp=14&oh=9c46ad807fdfe48d812867fa6445922e&oe=5F3CEFF8" class="rounded mx-auto d-block" alt="Icon 2" width="90" height="90">
   <h6 class='text-center'>CONSERVATION OF RESOURCES</</h6></div>
 
 <div class="col-sm-4">
-  <img src="https://scontent.fcgk24-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/110165529_1361442087399033_5161457264886086060_n.jpg?_nc_cat=101&_nc_sid=1480c5&efg=eyJpIjoidCJ9&_nc_ohc=7wQu4Vj2sXsAX8uV98A&_nc_ht=scontent.fcgk24-1.fna&tp=14&oh=cd8b1da608ae0597999ad909e2d58224&oe=5F3DD4AB" alt="Icon 3" width="90" height="90">
+  <img src="https://scontent.fcgk24-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/110165529_1361442087399033_5161457264886086060_n.jpg?_nc_cat=101&_nc_sid=1480c5&efg=eyJpIjoidCJ9&_nc_ohc=7wQu4Vj2sXsAX8uV98A&_nc_ht=scontent.fcgk24-1.fna&tp=14&oh=cd8b1da608ae0597999ad909e2d58224&oe=5F3DD4AB" class="rounded mx-auto d-block" alt="Icon 3" width="90" height="90">
   <h6 class='text-center'>LESS POLLUTION</</h6></div>
 
 <div class="col-sm-4">
-  <img src="https://scontent.fcgk24-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/115750569_1361394020737173_6953211397013277327_n.jpg?_nc_cat=108&_nc_sid=1480c5&efg=eyJpIjoidCJ9&_nc_ohc=uwf-xgwld4UAX8c73UA&_nc_ht=scontent.fcgk24-1.fna&tp=14&oh=b83aca3676e89319c96d35bcde462841&oe=5F3D3A21" alt="Icon 4" width="90" height="90">
+  <img src="https://scontent.fcgk24-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/115750569_1361394020737173_6953211397013277327_n.jpg?_nc_cat=108&_nc_sid=1480c5&efg=eyJpIjoidCJ9&_nc_ohc=uwf-xgwld4UAX8c73UA&_nc_ht=scontent.fcgk24-1.fna&tp=14&oh=b83aca3676e89319c96d35bcde462841&oe=5F3D3A21" class="rounded mx-auto d-block" alt="Icon 4" width="90" height="90">
   <h6 class='text-center'>STRONGER, DURABLE <br/>& LIGHTER MATERIAL</</h6></div>
 
 <div class="col-sm-4">
-  <img src="https://scontent.fcgk24-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/110099463_1361394127403829_4735452024997507382_n.jpg?_nc_cat=108&_nc_sid=1480c5&efg=eyJpIjoidCJ9&_nc_ohc=_LczE-NaD5cAX9Ru48M&_nc_ht=scontent.fcgk24-1.fna&tp=14&oh=cd7d280ecc89c2888065a6d5bc93a760&oe=5F3B28F7" alt="Icon 5" width="90" height="90">
+  <img src="https://scontent.fcgk24-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/110099463_1361394127403829_4735452024997507382_n.jpg?_nc_cat=108&_nc_sid=1480c5&efg=eyJpIjoidCJ9&_nc_ohc=_LczE-NaD5cAX9Ru48M&_nc_ht=scontent.fcgk24-1.fna&tp=14&oh=cd7d280ecc89c2888065a6d5bc93a760&oe=5F3B28F7" class="rounded mx-auto d-block" alt="Icon 5" width="90" height="90">
   <h6 class='text-center'>MORE EFFICIENT</</h6></div>
 
 <div class="col-sm-4">
-  <img src="https://scontent.fcgk24-2.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/110085874_1361392687403973_8236867148143665054_n.jpg?_nc_cat=100&_nc_sid=1480c5&efg=eyJpIjoidCJ9&_nc_ohc=m_aZo9sAuUsAX_tdZvG&_nc_ht=scontent.fcgk24-2.fna&tp=14&oh=72c565cdf32e1f12efc1596b5cf32691&oe=5F3C6D3E" alt="Icon 6" width="90" height="90">
+  <img src="https://scontent.fcgk24-2.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/110085874_1361392687403973_8236867148143665054_n.jpg?_nc_cat=100&_nc_sid=1480c5&efg=eyJpIjoidCJ9&_nc_ohc=m_aZo9sAuUsAX_tdZvG&_nc_ht=scontent.fcgk24-2.fna&tp=14&oh=72c565cdf32e1f12efc1596b5cf32691&oe=5F3C6D3E" class="rounded mx-auto d-block" alt="Icon 6" width="90" height="90">
   <h6 class='text-center'>GLOBAL ANNUAL SAVING OF CO 2</</h6></div>
 </div>
 </br></br></br>
@@ -152,20 +152,14 @@ a.promotion-btn {
 <h1 class="text-center">Acara with Nanobox</h1></br>
 <div class="row">
 <div class="col-md-3">
-  <img src="https://cms.nanobox.id/assets/nanobox/uploads/6.%20Titanium%20dioxide%20%28anatase%20type%29.jpg" alt="Icon 1" width="400" height="200">
-  <h6 class="text-center">Titanium Oksida</h6></div>
-  <td><a href ="/" class ="btn btn-primary">Pesan Disini</a></td>
-
+  <img src="https://scontent.fcgk24-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/110169798_1361647780711797_4084494263458703871_o.jpg?_nc_cat=102&_nc_sid=1480c5&efg=eyJpIjoidCJ9&_nc_ohc=y8S-figt8uQAX9tihlL&_nc_ht=scontent.fcgk24-1.fna&tp=14&oh=e438223187ee718f6ec2a6ab9cf15f36&oe=5F3E1B4F" alt="Icon 1" width="500" height="300">
+</div> 
 <div class="col-md-3">
-  <img src="https://cms.nanobox.id/assets/nanobox/uploads/29.%20c%20sport-vest-female.jpg" alt="Icon 2" width="400" height="200">
-  <h6 class="text-center">C Sport Vest Female</</h6></div>
-  <td><a href ="/" class ="btn btn-primary">Pesan Disini</a></td>
-
+  <img src="https://scontent.fcgk24-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/111358373_1361648137378428_77387386589100298_o.jpg?_nc_cat=109&_nc_sid=1480c5&efg=eyJpIjoidCJ9&_nc_ohc=1TEmrKmGRCoAX86Lxgo&_nc_ht=scontent.fcgk24-1.fna&tp=14&oh=89f5622d8359681f717eba223037c177&oe=5F3D5503" alt="Icon 2" width="500" height="300">
+</div>
 <div class="col-md-3">
-  <img src="https://cms.nanobox.id/assets/nanobox/uploads/9.%20Proflavo.jpg" alt="Icon 3" width="400" height="200">
-  <h6 class="text-center">Proflavo 1 Liter</</h6></div>
-  <td><a href ="/" class ="btn btn-primary">Pesan Disini</a></td>
-  
+  <img src="https://scontent.fcgk24-2.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/110288694_1361820450694530_5442357677978443551_o.jpg?_nc_cat=105&_nc_sid=1480c5&efg=eyJpIjoidCJ9&_nc_ohc=BZa1B5QBUS8AX9R9PZU&_nc_ht=scontent.fcgk24-2.fna&tp=14&oh=9995b56748a37f00c6bba71886fda7cd&oe=5F3DBAD9" alt="Icon 3" width="500" height="300">
+</div>  
 </div></br>
 <div class="center">
   <a href="/event" class="promotion-btn success">Klik Untuk Selengkapnya</a>
